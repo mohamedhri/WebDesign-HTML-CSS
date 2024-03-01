@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "Inter", sans-serif;
 
 }
 .header{
@@ -94,6 +95,19 @@
    text-align: center;
    padding: 80px;
 
+}
+.section-feature.card h2{
+    font-size:16px;
+    margin-top: 20px;
+    font-weight: normal;
+}
+.section-feature .card p{
+    color: gray;
+    font-size: 15px;
+    padding:20px;
+    
+    
+    
 }
 
 .footer{
